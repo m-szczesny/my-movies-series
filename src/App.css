@@ -1,0 +1,7 @@
+.app {
+    padding: 20px;
+}
+
+.results__card:hover {
+    background-color: rgb(235, 230, 230);
+}

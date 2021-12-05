@@ -1,0 +1,410 @@
+{
+    "page":1,
+    "results":[
+       {
+          "backdrop_path":"/xAKMj134XHQVNHLC6rWsccLMenG.jpg",
+          "first_air_date":"2021-10-12",
+          "genre_ids":[
+             10765,
+             35,
+             80
+          ],
+          "id":90462,
+          "name":"Chucky",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Chucky",
+          "overview":"After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
+          "popularity":5323.133,
+          "poster_path":"/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg",
+          "vote_average":8,
+          "vote_count":2443
+       },
+       {
+          "backdrop_path":"/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
+          "first_air_date":"2021-11-18",
+          "genre_ids":[
+             10765,
+             18,
+             10759
+          ],
+          "id":71914,
+          "name":"The Wheel of Time",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"The Wheel of Time",
+          "overview":"Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
+          "popularity":3460.839,
+          "poster_path":"/mpgDeLhl8HbhI03XLB7iKO6M6JE.jpg",
+          "vote_average":8,
+          "vote_count":358
+       },
+       {
+          "backdrop_path":"/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+          "first_air_date":"2021-11-24",
+          "genre_ids":[
+             10759,
+             18
+          ],
+          "id":88329,
+          "name":"Hawkeye",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Hawkeye",
+          "overview":"Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+          "popularity":3325.099,
+          "poster_path":"/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
+          "vote_average":8.7,
+          "vote_count":451
+       },
+       {
+          "backdrop_path":"/pkOSjcllDSs4WP9i8DGkw9VgF5Q.jpg",
+          "first_air_date":"2015-07-06",
+          "genre_ids":[
+             10764,
+             10751
+          ],
+          "id":63452,
+          "name":"Wer weiß denn sowas?",
+          "origin_country":[
+             "DE"
+          ],
+          "original_language":"de",
+          "original_name":"Wer weiß denn sowas?",
+          "overview":"",
+          "popularity":2077.494,
+          "poster_path":"/abKjah96esLWObidBcWmvKJv61E.jpg",
+          "vote_average":8,
+          "vote_count":7
+       },
+       {
+          "backdrop_path":"/s3djN3dNW76jvgHtyIupugi0V7h.jpg",
+          "first_air_date":"2021-11-19",
+          "genre_ids":[
+             18,
+             80,
+             9648,
+             10765
+          ],
+          "id":106651,
+          "name":"Hellbound",
+          "origin_country":[
+             "KR"
+          ],
+          "original_language":"ko",
+          "original_name":"지옥",
+          "overview":"Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+          "popularity":1784.094,
+          "poster_path":"/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+          "vote_average":7.9,
+          "vote_count":216
+       },
+       {
+          "backdrop_path":"/gUOkdbnVOVGrkOa6DHB8CEZgtVg.jpg",
+          "first_air_date":"2021-11-10",
+          "genre_ids":[
+             18
+          ],
+          "id":103310,
+          "name":"Novoland: Pearl Eclipse",
+          "origin_country":[
+             "CN"
+          ],
+          "original_language":"zh",
+          "original_name":"斛珠夫人",
+          "overview":"Set in the Zheng dynasty of the fantasy world Novoland, the drama revolves around a young girl of the merfolk tribe Ye Haishi; and her love story with the current Emperor, Fang Zhu.",
+          "popularity":1641.587,
+          "poster_path":"/tJ0vndu5q7S2MDSYsEJFRWO4JMb.jpg",
+          "vote_average":5.7,
+          "vote_count":5
+       },
+       {
+          "backdrop_path":"/tJ2fGRBKNgEwt9GiCOJ1veKRHXu.jpg",
+          "first_air_date":"2019-09-09",
+          "genre_ids":[
+             10751,
+             10765,
+             18
+          ],
+          "id":92804,
+          "name":"Alix and the Marvelous",
+          "origin_country":[
+             "CA"
+          ],
+          "original_language":"fr",
+          "original_name":"Alix et les merveilleux",
+          "overview":"Magic, humor and many twists and turns are at the heart of this new season of Alix et les Merveilleux . In this universe where reality meets imagination, the characters continue their incredible adventures.",
+          "popularity":1629.403,
+          "poster_path":"/38Wm4JiOtajqDOWdjlfesp5T2jE.jpg",
+          "vote_average":4.3,
+          "vote_count":3
+       },
+       {
+          "backdrop_path":"/yfXSvNfF43S0cxpxCEKaU17yZ64.jpg",
+          "first_air_date":"1983-09-19",
+          "genre_ids":[
+             10751
+          ],
+          "id":2778,
+          "name":"Wheel of Fortune",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Wheel of Fortune",
+          "overview":"This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+          "popularity":1529.445,
+          "poster_path":"/2fvAIyVfFHQdhJ7OsJWuMlF7836.jpg",
+          "vote_average":7.2,
+          "vote_count":34
+       },
+       {
+          "backdrop_path":null,
+          "first_air_date":"1991-09-09",
+          "genre_ids":[
+             10767
+          ],
+          "id":385,
+          "name":"Maury",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Maury",
+          "overview":"Maury is a syndicated American tabloid talk show hosted by Maury Povich.\n\nWhen the series first aired in 1991, the show was called The Maury Povich Show and was produced by MoPo Productions in association with Paramount Domestic Television. The show adopted the title Maury in the 1995–1996 season. The show was then revamped in the 1998–1999 season, when Studios USA took over production. However, MoPo continues to co-produce with NBCUniversal. For the series' first 18 seasons, it was taped in New York City, but beginning with Season 19, the show has been taped in the Stamford Media Center in Stamford, Connecticut. Maury is one of four NBC Universal syndicated properties to make the move to Connecticut, joining the former Chicago-based Jerry Springer and Steve Wilkos shows. The fourth, the syndicated Deal or No Deal, is no longer in production. The Trisha Goddard Show became the fourth show in production with NBC Universal. The TV rating on Maury is rated TV-PG and TV-14 on the syndicated stations of the United States, based on each episode's content.\n\nOn September 17, 2012, during the premiere of its 22nd season, episodes of Maury began airing in widescreen. However, like its sister shows, it is still broadcasting 480i standard definition. On March 26, 2013, Maury was renewed for an additional three years until 2016.",
+          "popularity":1463.718,
+          "poster_path":"/6snpIOldoSfBMz9HcnfDfjhkwOt.jpg",
+          "vote_average":6.2,
+          "vote_count":28
+       },
+       {
+          "backdrop_path":"/eD2U2RwxQosUDwvu19n46KvJEf9.jpg",
+          "first_air_date":"2021-09-13",
+          "genre_ids":[
+             18,
+             35
+          ],
+          "id":124549,
+          "name":"Marry Me, Marry You",
+          "origin_country":[
+             "PH"
+          ],
+          "original_language":"tl",
+          "original_name":"Marry Me, Marry You",
+          "overview":"It will center on a couple, portrayed by Gutierrez and Avelino, who navigates the traditional expectations attached to marriage — that it extends beyond one’s partner, and includes their friends and family, too.",
+          "popularity":1442.986,
+          "poster_path":"/7qZUC0AQmSi7pxNP6cH3swkb8Is.jpg",
+          "vote_average":5,
+          "vote_count":2
+       },
+       {
+          "backdrop_path":null,
+          "first_air_date":"2021-10-17",
+          "genre_ids":[
+             10764
+          ],
+          "id":136665,
+          "name":"Stardance XI ...kolem dokola",
+          "origin_country":[
+             
+          ],
+          "original_language":"cs",
+          "original_name":"Stardance XI ...kolem dokola",
+          "overview":"",
+          "popularity":1436.933,
+          "poster_path":"/nho3v1Epw2OkxhOCJcAyv37wh8b.jpg",
+          "vote_average":0,
+          "vote_count":0
+       },
+       {
+          "backdrop_path":"/8lBlBItnehgOAwFt0ezxlXuWeIO.jpg",
+          "first_air_date":"2021-11-08",
+          "genre_ids":[
+             10766,
+             18
+          ],
+          "id":132375,
+          "name":"Um Lugar ao Sol",
+          "origin_country":[
+             "BR"
+          ],
+          "original_language":"pt",
+          "original_name":"Um Lugar ao Sol",
+          "overview":"",
+          "popularity":1415.031,
+          "poster_path":"/8OYUkmD4fFtbG4MT4uYvnA632Cg.jpg",
+          "vote_average":10,
+          "vote_count":1
+       },
+       {
+          "backdrop_path":"/ftYOQX0BVUgQqG8uAUowyvXsYGS.jpg",
+          "first_air_date":"2002-08-25",
+          "genre_ids":[
+             35,
+             10764
+          ],
+          "id":30901,
+          "name":"I'm a Celebrity Get Me Out of Here!",
+          "origin_country":[
+             "GB"
+          ],
+          "original_language":"en",
+          "original_name":"I'm a Celebrity Get Me Out of Here!",
+          "overview":"I'm a Celebrity...Get Me Out of Here! is a British reality television show, first screened in 2002, in which celebrities live in jungle conditions with few creature comforts. The show has been hosted by Ant & Dec since its inception. It is filmed in Murwillumbah, New South Wales, Australia and broadcast on ITV in the UK and on 3e in Ireland. The show is one of the largest in the world, with more than 700 staff working on the show 24 hours a day for three weeks. It is sponsored in the UK by supermarket chain Iceland and in Ireland by MultiTrip.com.",
+          "popularity":1395.569,
+          "poster_path":"/vkRGDGi1QsKs5QMd8OYiipgaP8F.jpg",
+          "vote_average":5.9,
+          "vote_count":23
+       },
+       {
+          "backdrop_path":"/75XgXxvZ7bYg6sRIBQKDdBlyTFY.jpg",
+          "first_air_date":"2021-08-23",
+          "genre_ids":[
+             18,
+             10766
+          ],
+          "id":133372,
+          "name":"Meet",
+          "origin_country":[
+             "IN"
+          ],
+          "original_language":"hi",
+          "original_name":"मीत",
+          "overview":"A remake of Zee Sarthak’s Sindura Bindu.\n\nDespite her efforts to provide for her family, Meets disregard for societal gender norms and her nonconformist job as a delivery agent make her an unsuitable girl in the eyes of her family.",
+          "popularity":1391.263,
+          "poster_path":"/9X7FovF5n8NQUHUPJYYfxRlF3yp.jpg",
+          "vote_average":2.6,
+          "vote_count":4
+       },
+       {
+          "backdrop_path":"/l8WwTX2o16n3MbD6Yz2NNYKOt8i.jpg",
+          "first_air_date":"2019-09-09",
+          "genre_ids":[
+             10764
+          ],
+          "id":93364,
+          "name":"Judge Jerry",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Judge Jerry",
+          "overview":"Jerry Springer is now moving from the stage to behind the bench in this new court show where he will be presiding cases.",
+          "popularity":1331.998,
+          "poster_path":"/54iJ45FF2m9jNsioGltHypVlvKh.jpg",
+          "vote_average":4.5,
+          "vote_count":2
+       },
+       {
+          "backdrop_path":"/dhRcIc6acdXG83CJ2z9Hns6Fkg2.jpg",
+          "first_air_date":"2021-10-29",
+          "genre_ids":[
+             18,
+             99
+          ],
+          "id":113901,
+          "name":"Maradona: Blessed Dream",
+          "origin_country":[
+             "AR"
+          ],
+          "original_language":"es",
+          "original_name":"Maradona: Sueño bendito",
+          "overview":"The controversial life and history of Argentine football legend Diego Armando Maradona. From his beginnings in Villa Fiorito, one of the poorest barrios of Buenos Aires, to achieving glory on the international football league. Earning himself a well-deserved place in history. Living a life strewn with drugs, sex and public scrutiny, he played by his own rules regardless of the consequences. Watch the man who took the world by storm and made his way into the hearts of millions.",
+          "popularity":1281.116,
+          "poster_path":"/yRPignkKlzde0SDRkXwbPn80nFa.jpg",
+          "vote_average":7.6,
+          "vote_count":393
+       },
+       {
+          "backdrop_path":"/5YTM1bh3Jyfy9IP2eS64W3JDeGs.jpg",
+          "first_air_date":"2018-06-20",
+          "genre_ids":[
+             37,
+             18
+          ],
+          "id":73586,
+          "name":"Yellowstone",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Yellowstone",
+          "overview":"Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+          "popularity":1134.193,
+          "poster_path":"/iqWCUwLcjkVgtpsDLs8xx8kscg6.jpg",
+          "vote_average":8,
+          "vote_count":693
+       },
+       {
+          "backdrop_path":"/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+          "first_air_date":"2021-09-17",
+          "genre_ids":[
+             10759,
+             9648,
+             18
+          ],
+          "id":93405,
+          "name":"Squid Game",
+          "origin_country":[
+             "KR"
+          ],
+          "original_language":"ko",
+          "original_name":"오징어 게임",
+          "overview":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+          "popularity":1082.985,
+          "poster_path":"/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+          "vote_average":7.8,
+          "vote_count":9234
+       },
+       {
+          "backdrop_path":"/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+          "first_air_date":"2021-11-06",
+          "genre_ids":[
+             16,
+             10765,
+             10759,
+             18
+          ],
+          "id":94605,
+          "name":"Arcane",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"Arcane",
+          "overview":"Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+          "popularity":1080.033,
+          "poster_path":"/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+          "vote_average":9.2,
+          "vote_count":958
+       },
+       {
+          "backdrop_path":"/41yaWnIT8AjIHiULHtTbKNzZTjc.jpg",
+          "first_air_date":"2014-10-07",
+          "genre_ids":[
+             18,
+             10765
+          ],
+          "id":60735,
+          "name":"The Flash",
+          "origin_country":[
+             "US"
+          ],
+          "original_language":"en",
+          "original_name":"The Flash",
+          "overview":"After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+          "popularity":1065.733,
+          "poster_path":"/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+          "vote_average":7.8,
+          "vote_count":8846
+       }
+    ],
+    "total_pages":500,
+    "total_results":10000
+ }
